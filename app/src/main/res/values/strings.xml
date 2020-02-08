@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CustomeToastActivity</string>
+    <string name="str1"> What you can do here</string>
 </resources>

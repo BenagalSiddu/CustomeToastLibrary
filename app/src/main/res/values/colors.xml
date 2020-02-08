@@ -4,4 +4,17 @@
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
     <color name="colorlightblck">#B1AEAD</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#111111</color>
+    <color name="darksblue">#1077B0</color>
+    <color name="orange">#F8962D</color>
+    <color name="orange_light">#f4a460</color>
+    <color name="red">#FF0000</color>
+    <color name="toolbarcolor">#1077B0</color>
+    <color name="stsbarcolor">#1077B0</color>
+    <color name="lightgreen">#90EE90</color>
+    <color name="lightred">#ff6961</color>
+    <color name="colorRipple">#A9A9F5</color>
+    <color name="cardvie_btn">#E3F2FD</color>
 </resources>
